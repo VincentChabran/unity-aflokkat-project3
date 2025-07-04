@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:GroupBox style="height: 450px; flex-basis: auto; flex-direction: column; flex-wrap: nowrap; justify-content: center; flex-shrink: 0; flex-grow: 0; align-items: center;">
+        <ui:Button text="Commencer" icon-image="project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=-4521532143779581420&amp;guid=543b9c24cf6c946a985ad5ea6af5dcc1&amp;type=3#arrow-right" name="CommencerButton" style="margin-top: 2px; margin-bottom: 30px; background-color: rgb(15, 212, 9); width: 200px;" />
+        <ui:Button text="Quitter" icon-image="project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=4456449167576933126&amp;guid=543b9c24cf6c946a985ad5ea6af5dcc1&amp;type=3#console.erroricon" name="QuitterButton" style="background-color: rgb(236, 26, 26); width: 200px;" />
+    </ui:GroupBox>
+</ui:UXML>
